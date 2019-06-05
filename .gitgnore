@@ -1,0 +1,6 @@
+*.pyc
+*~
+__pycache__
+db.sqlire3
+/static
+.DS_Store
